@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello Heroku!</h2>
-<jsp:body>
+<body>
 
 <div class="box">
     <iframe
@@ -24,7 +24,7 @@
         Embedding failed because inline frames are not supported by your browser or the web server.
     </iframe>
 
-    </jsp:body>
+    </body>
 </html>
 
 
