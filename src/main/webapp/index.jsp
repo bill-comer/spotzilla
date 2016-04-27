@@ -1,4 +1,7 @@
 <html>
+  <head>
+      <link rel="stylesheet" href="/main.css">
+  </head>
 <body>
 <h2>Bills Spot!</h2>
 <body>
