@@ -17,7 +17,7 @@
 <h2>Pete's Spot!</h2>
 <div class="box">
     <iframe
-            src='https://spotwalla.com/embed.php?id=108345721134fb9d8f&scale=on&zoom=default&refresh=no'
+            src='https://spotwalla.com/embed.php?id=108315720fe99af389&scale=on&zoom=default&refresh=no'
             width='800'
             height='600'
             scrolling='false'
