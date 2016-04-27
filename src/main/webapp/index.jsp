@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello Heroku!</h2>
+<h2>Bills Spot!</h2>
 <body>
 
 <div class="box">
@@ -14,6 +14,7 @@
     </iframe>
 </div>
 
+<h2>Pete's Spot!</h2>
 <div class="box">
     <iframe
             src='https://spotwalla.com/embed.php?id=108345721134fb9d8f&scale=on&zoom=default&refresh=no'
