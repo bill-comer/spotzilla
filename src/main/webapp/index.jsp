@@ -4,6 +4,10 @@
 <body>
 
 
+<a href="/pete.jsp">Pete</a>
+<a href="/bill.jsp">Bill</a>
+<a href="/karl.jsp">Karl</a>
+
 <h2>Pete's Spot!</h2>
 <div class="box">
     <iframe
